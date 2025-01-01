@@ -14,6 +14,11 @@ In my “spare time” I record videos on analytics on the YouTube channel “Ex
 📢 Youtube Channel: [Excel & Other Things](https://www.youtube.com/@exceleoutrascoisas)  
 
 
+
+
+
+<!--
+
 <p align="center">
 <a href="https://github.com/jrloppnow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&show_icons=true&layout=compact&theme=dark" />
@@ -22,8 +27,6 @@ In my “spare time” I record videos on analytics on the YouTube channel “Ex
 
 
 
-
-<!--
 **jrloppnow/jrloppnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
