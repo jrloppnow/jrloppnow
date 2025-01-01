@@ -10,9 +10,18 @@ In my “spare time” I record videos on analytics on the YouTube channel “Ex
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jrloppnow/)  
 📈 VBA course UDEMY: [Basic to Advanced +60 lessons +practical projects - PT-BR](https://www.udemy.com/course/excel-macros-e-vba-completo-mais-ferramentas-na-pratica/?referralCode=225C81BC7A2BB8C4F8CB)  
-🤖 Programming a BOT UDEMY: [Programming a BOT in WhatsApp](https://www.udemy.com/course/whatsapp-web-bot/?referralCode=3EA7A4905034F4308296)  
+🤖 Programming a Bot UDEMY: [Programming a BOT in WhatsApp](https://www.udemy.com/course/whatsapp-web-bot/?referralCode=3EA7A4905034F4308296)  
 📢 Youtube Channel: [Excel & Other Things](https://www.youtube.com/@exceleoutrascoisas)  
 
+
+
+<div>
+  <br><br><br>
+  <a href="https://beacons.ai/jrloppnow">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrloppnow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
 
 
 
