@@ -15,7 +15,7 @@ In my “spare time” I record videos on analytics on the YouTube channel “Ex
 
 
 <p align="center">
-<a href="https://github.com/jrloppnow/github-readme-stats">
+<a href="[https://github.com/jrloppnow](https://github.com/jrloppnow)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&show_icons=true&layout=compact&theme=dark" />
 </a> 
 </p>
