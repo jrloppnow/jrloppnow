@@ -18,8 +18,8 @@ In my “spare time” I record videos on analytics on the YouTube channel “Ex
 <div>
   <br><br><br>
   <a href="https://beacons.ai/jrloppnow">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrloppnow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrloppnow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+ <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/> -->
   </a>
 </div>
 
