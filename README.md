@@ -29,7 +29,9 @@ In my “spare time” I record videos on analytics on the YouTube channel ["Exc
  <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/> -->
   </a>
 </div>
-
+<br>
+<br>
+English level B1-B2
 
 
 
