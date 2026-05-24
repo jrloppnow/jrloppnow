@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Jeferson Loppnow and I've been working with data analysis since 2017 and since 2023 I've managed to migrate to the IT area 🙌. 
-Today I'm a Senior Analytics Engineer with a degree in Commercial Management and a specialization in Big Data & Data Science and my english level is B1 caminhando para o B2 até o final de 2026
+Today I'm a Senior Analytics Engineer with a degree in Commercial Management and a specialization in Big Data & Data Science and currently at B1 English level, aiming for B2 by the end of 2026 🚀
 
 I’m also passionate about teaching and sharing knowledge. On Udemy, I’ve published two courses:
 - A comprehensive VBA course, where I cover everything from basic to advanced concepts, including practical projects.
@@ -32,24 +32,18 @@ In my “spare time” I record videos on analytics on the YouTube channel ["Exc
 
 
 
-<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=jrloppnow&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-<!-- <div>
   <br><br><br>
+
+  <!--
   <a href="https://github.com/jrloppnow">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/> 
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/> 
   </a>
 </div>
- -->
+-->
 
+      <!-- <div>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/>   -->
 
 <!--
 
