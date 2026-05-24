@@ -1,11 +1,21 @@
 ## Hi there 👋
 
 I'm Jeferson Loppnow and I've been working with data analysis since 2017 and since 2023 I've managed to migrate to the IT area 🙌. 
-Today I'm a Senior Data Engineer at a large global food company, with a degree in Commercial Management and a specialization in Big Data & Data Science. 
+Today I'm a Senior Analytics Engineer with a degree in Commercial Management and a specialization in Big Data & Data Science and my english level is B1 caminhando para o B2 até o final de 2026
 
 I’m also passionate about teaching and sharing knowledge. On Udemy, I’ve published two courses:
 - A comprehensive VBA course, where I cover everything from basic to advanced concepts, including practical projects.
 - A course on building a WhatsApp bot to send messages with text and attachments.
+
+
+## 🚀 Tech Stack
+
+- **Data Engineering:** Databricks, Azure Data Factory, PySpark, SQL, Python
+- **Cloud & Data Platforms:** Azure, Data Lake, Lakehouse, ETL / ELT
+- **Analytics & BI:** Power BI, Excel, Power Query, DAX
+- **Dev & Automation:** Azure DevOps, CI/CD, Power Automate, Power Apps
+
+---
 
 In my “spare time” I record videos on analytics on the YouTube channel ["Excel & Outras Coisas - PT-BR"](https://www.youtube.com/@exceleoutrascoisas) 
 <br>
@@ -22,17 +32,23 @@ In my “spare time” I record videos on analytics on the YouTube channel ["Exc
 
 
 
-<div>
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=jrloppnow&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+<!-- <div>
   <br><br><br>
   <a href="https://github.com/jrloppnow">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrloppnow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
- <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/> -->
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrloppnow&layout=compact&langs_count=16&theme=dark"/> 
   </a>
 </div>
-<br>
-<br>
-English level B1-B2
-
+ -->
 
 
 <!--
