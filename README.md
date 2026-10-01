@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jeferson Loppnow and I've been working with data analysis since 2017 and since 2023 I've managed to migrate to the IT area 🙌. 
+I'm Jeferson Loppnow and I've been working with data analysis since 2016 and since 2023 I've managed to migrate to the IT area 🙌. 
 Today I'm a Senior Analytics Engineer with a degree in Commercial Management and a specialization in Big Data & Data Science and currently at B1 English level, aiming for B2 by the end of 2026 🚀 
 
 I’m also passionate about teaching and sharing knowledge. On Udemy, I’ve published two courses:
